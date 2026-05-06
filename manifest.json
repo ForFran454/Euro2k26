@@ -2,7 +2,7 @@
   "name": "EURO2K26 — Gastos",
   "short_name": "EURO2K26",
   "description": "Diario de gastos para el viaje por Europa 2026",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d0f14",
